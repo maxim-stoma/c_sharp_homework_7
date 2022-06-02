@@ -1,0 +1,15 @@
+D:\Documents\Study\Homework\homework_7\task050_2dArrayElementPosition\bin\Debug\net6.0\task050_2dArrayElementPosition.exe
+D:\Documents\Study\Homework\homework_7\task050_2dArrayElementPosition\bin\Debug\net6.0\task050_2dArrayElementPosition.deps.json
+D:\Documents\Study\Homework\homework_7\task050_2dArrayElementPosition\bin\Debug\net6.0\task050_2dArrayElementPosition.runtimeconfig.json
+D:\Documents\Study\Homework\homework_7\task050_2dArrayElementPosition\bin\Debug\net6.0\task050_2dArrayElementPosition.dll
+D:\Documents\Study\Homework\homework_7\task050_2dArrayElementPosition\bin\Debug\net6.0\task050_2dArrayElementPosition.pdb
+D:\Documents\Study\Homework\homework_7\task050_2dArrayElementPosition\obj\Debug\net6.0\task050_2dArrayElementPosition.csproj.AssemblyReference.cache
+D:\Documents\Study\Homework\homework_7\task050_2dArrayElementPosition\obj\Debug\net6.0\task050_2dArrayElementPosition.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Study\Homework\homework_7\task050_2dArrayElementPosition\obj\Debug\net6.0\task050_2dArrayElementPosition.AssemblyInfoInputs.cache
+D:\Documents\Study\Homework\homework_7\task050_2dArrayElementPosition\obj\Debug\net6.0\task050_2dArrayElementPosition.AssemblyInfo.cs
+D:\Documents\Study\Homework\homework_7\task050_2dArrayElementPosition\obj\Debug\net6.0\task050_2dArrayElementPosition.csproj.CoreCompileInputs.cache
+D:\Documents\Study\Homework\homework_7\task050_2dArrayElementPosition\obj\Debug\net6.0\task050_2dArrayElementPosition.dll
+D:\Documents\Study\Homework\homework_7\task050_2dArrayElementPosition\obj\Debug\net6.0\refint\task050_2dArrayElementPosition.dll
+D:\Documents\Study\Homework\homework_7\task050_2dArrayElementPosition\obj\Debug\net6.0\task050_2dArrayElementPosition.pdb
+D:\Documents\Study\Homework\homework_7\task050_2dArrayElementPosition\obj\Debug\net6.0\task050_2dArrayElementPosition.genruntimeconfig.cache
+D:\Documents\Study\Homework\homework_7\task050_2dArrayElementPosition\obj\Debug\net6.0\ref\task050_2dArrayElementPosition.dll
