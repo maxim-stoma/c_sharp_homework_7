@@ -1,0 +1,15 @@
+D:\Documents\Study\Homework\homework_7\task052_averageOfColumnElement\bin\Debug\net6.0\task052_averageOfColumnElement.exe
+D:\Documents\Study\Homework\homework_7\task052_averageOfColumnElement\bin\Debug\net6.0\task052_averageOfColumnElement.deps.json
+D:\Documents\Study\Homework\homework_7\task052_averageOfColumnElement\bin\Debug\net6.0\task052_averageOfColumnElement.runtimeconfig.json
+D:\Documents\Study\Homework\homework_7\task052_averageOfColumnElement\bin\Debug\net6.0\task052_averageOfColumnElement.dll
+D:\Documents\Study\Homework\homework_7\task052_averageOfColumnElement\bin\Debug\net6.0\task052_averageOfColumnElement.pdb
+D:\Documents\Study\Homework\homework_7\task052_averageOfColumnElement\obj\Debug\net6.0\task052_averageOfColumnElement.csproj.AssemblyReference.cache
+D:\Documents\Study\Homework\homework_7\task052_averageOfColumnElement\obj\Debug\net6.0\task052_averageOfColumnElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Study\Homework\homework_7\task052_averageOfColumnElement\obj\Debug\net6.0\task052_averageOfColumnElement.AssemblyInfoInputs.cache
+D:\Documents\Study\Homework\homework_7\task052_averageOfColumnElement\obj\Debug\net6.0\task052_averageOfColumnElement.AssemblyInfo.cs
+D:\Documents\Study\Homework\homework_7\task052_averageOfColumnElement\obj\Debug\net6.0\task052_averageOfColumnElement.csproj.CoreCompileInputs.cache
+D:\Documents\Study\Homework\homework_7\task052_averageOfColumnElement\obj\Debug\net6.0\task052_averageOfColumnElement.dll
+D:\Documents\Study\Homework\homework_7\task052_averageOfColumnElement\obj\Debug\net6.0\refint\task052_averageOfColumnElement.dll
+D:\Documents\Study\Homework\homework_7\task052_averageOfColumnElement\obj\Debug\net6.0\task052_averageOfColumnElement.pdb
+D:\Documents\Study\Homework\homework_7\task052_averageOfColumnElement\obj\Debug\net6.0\task052_averageOfColumnElement.genruntimeconfig.cache
+D:\Documents\Study\Homework\homework_7\task052_averageOfColumnElement\obj\Debug\net6.0\ref\task052_averageOfColumnElement.dll
